@@ -9,9 +9,9 @@ Author: S. Mendizabal
 
 #### • Excercices
 Python and R code from excercices 
-developed in Machine Learning class
-Autumn 2016. 
+developed in Machine Learning course
+period Autumn 2016. 
 
 
 
-**Note:** Version Python 2
+**Note:** Python Version 2
